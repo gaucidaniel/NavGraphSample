@@ -1,0 +1,6 @@
+<resources>
+
+    <string name="app_name">feature_sample</string>
+    <string name="feature_fragment_title">Feature Fragment</string>
+
+</resources>
